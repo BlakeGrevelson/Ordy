@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Food master</string>
+    <string name="app_logo">Food\nmaster</string>
+    <string name="app_desc">Хотите вкусно покушать? Наша\nпрограмма идеально подойдет вам.\nУ нас большой выбор вкусной еды</string>
+    <string name="btn_main">Find food</string>
+    <string name="category_name_1">Fast food</string>
+    <string name="category_name_2">Salads</string>
+    <string name="foodBtn">Look</string>
+    <string name="addToBasket">Add</string>
+
+
+</resources>
